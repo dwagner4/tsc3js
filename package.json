@@ -1,0 +1,13 @@
+{
+  "name": "tsc3js",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dean Wagner",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.126.0"
+  }
+}
